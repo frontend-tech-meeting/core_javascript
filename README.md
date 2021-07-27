@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/35240142/127080737-3ac776ee-6977-4eaf-b800-b1233da77d93.png" alt="코어 자바스크립트 표지" width="700">
+  <img src="https://user-images.githubusercontent.com/35240142/127080737-3ac776ee-6977-4eaf-b800-b1233da77d93.png" alt="코어 자바스크립트 표지" width="500">
 </h2>
 
 ## 👨‍💻 Frontend Tech Meeting #1 : 코어 자바스크립트 (정재남)
