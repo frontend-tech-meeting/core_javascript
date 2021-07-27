@@ -15,10 +15,10 @@
 - 김성훈 [:octocat:](https://github.com/Tonyk0901) [📚](https://velog.io/@tonyk0901)
 - 안도현 [:octocat:](https://github.com/) [📚]()
 - 오종택 [:octocat:](https://github.com/saengmotmi) [📚](https://saengmotmi.netlify.app/)
-- 황연욱 [:octocat:](https://github.com/) [📚]()
+- 황연욱 [:octocat:](https://github.com/younuk23) [📚](https://yeonuk.netlify.app/)
 
 ## 📘 스터디 기록
 
-|           주차            |               성훈               |               도현               |               종택               |               연욱               |
-| :-----------------------: | :------------------------------: | :------------------------------: | :------------------------------: | :------------------------------: |
-| 2021.07.30 (1주차 금요일) | [:link:](./ms/week_1/Tuesday.md) | [:link:](./dh/week_1/Tuesday.md) | [:link:](./sw/week_1/Tuesday.md) | [:link:](./sw/week_1/Tuesday.md) |
+|           주차            |               성훈               |               도현               |               종택               |               연욱               |          모임 정리           |
+| :-----------------------: | :------------------------------: | :------------------------------: | :------------------------------: | :------------------------------: | :--------------------------: |
+| 2021.07.30 (1주차 금요일) | [:link:](./ms/week_1/Tuesday.md) | [:link:](./dh/week_1/Tuesday.md) | [:link:](./sw/week_1/Tuesday.md) | [:link:](./sw/week_1/Tuesday.md) | [:link:](./meeting/week1.md) |
