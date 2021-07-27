@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="http://image.yes24.com/goods/78586788/XL" alt="코어 자바스크립트 표지" width="700">
+  <img src="https://user-images.githubusercontent.com/35240142/127080737-3ac776ee-6977-4eaf-b800-b1233da77d93.png" alt="코어 자바스크립트 표지" width="700">
 </h2>
 
 ## 👨‍💻 Frontend Tech Meeting #1 : 코어 자바스크립트 (정재남)
@@ -21,4 +21,4 @@
 
 |           주차            |               성훈               |               도현               |               종택               |               연욱               |
 | :-----------------------: | :------------------------------: | :------------------------------: | :------------------------------: | :------------------------------: |
-| 2020.09.01 (1주차 화요일) | [:link:](./ms/week_1/Tuesday.md) | [:link:](./dh/week_1/Tuesday.md) | [:link:](./sw/week_1/Tuesday.md) | [:link:](./sw/week_1/Tuesday.md) |
+| 2021.07.30 (1주차 그요일) | [:link:](./ms/week_1/Tuesday.md) | [:link:](./dh/week_1/Tuesday.md) | [:link:](./sw/week_1/Tuesday.md) | [:link:](./sw/week_1/Tuesday.md) |
