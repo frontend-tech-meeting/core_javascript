@@ -15,10 +15,10 @@
 - 김성훈 [:octocat:](https://github.com/Tonyk0901) [📚](https://velog.io/@tonyk0901)
 - 안도현 [:octocat:](https://github.com/) [📚]()
 - 오종택 [:octocat:](https://github.com/saengmotmi) [📚](https://saengmotmi.netlify.app/)
-- 황연욱 [:octocat:](https://github.com/younuk23) [📚](https://yeonuk.netlify.app/)
+- 황연욱 [:octocat:](https://github.com/younuk23) [📚](https://solveaproblem.dev/)
 
 ## 📘 스터디 기록
 
 |           주차            |               성훈               |               도현               |               종택               |               연욱               |          모임 정리           |
 | :-----------------------: | :------------------------------: | :------------------------------: | :------------------------------: | :------------------------------: | :--------------------------: |
-| 2021.07.30 (1주차 금요일) | [:link:](./ms/week_1/Tuesday.md) | [:link:](./dh/week_1/Tuesday.md) | [:link:](https://saengmotmi.netlify.app/study/2021-07-30-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85/) | [:link:](https://yeonuk.netlify.app/javacsript-data-type/) | [:link:](./meeting/week1.md) |
+| 2021.07.30 (1주차 금요일) | [:link:](./ms/week_1/Tuesday.md) | [:link:](./dh/week_1/Tuesday.md) | [:link:](https://saengmotmi.netlify.app/study/2021-07-30-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85/) | [:link:](https://solveaproblem.dev/javacsript-data-type/) | [:link:](./meeting/week1.md) |
