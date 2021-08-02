@@ -21,4 +21,4 @@
 
 |           주차            |               성훈               |               도현               |               종택               |               연욱               |          모임 정리           |
 | :-----------------------: | :------------------------------: | :------------------------------: | :------------------------------: | :------------------------------: | :--------------------------: |
-| 2021.07.30 (1주차 금요일) | [:link:](./ms/week_1/Tuesday.md) | [:link:](./dh/week_1/Tuesday.md) | [:link:](./sw/week_1/Tuesday.md) | [:link:](./sw/week_1/Tuesday.md) | [:link:](./meeting/week1.md) |
+| 2021.07.30 (1주차 금요일) | [:link:](./ms/week_1/Tuesday.md) | [:link:](./dh/week_1/Tuesday.md) | [:link:](https://saengmotmi.netlify.app/study/2021-07-30-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85/) | [:link:](./sw/week_1/Tuesday.md) | [:link:](./meeting/week1.md) |
